@@ -1,0 +1,1 @@
+# simple-forex-price-fetch-py-1.0
